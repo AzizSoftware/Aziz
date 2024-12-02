@@ -1,6 +1,6 @@
-<h1 align="center"><b>Hey , I'm Mohamed Aziz Ben Ismail </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hey , I'm Mohammed Aziz ZOUAGHI </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+It's+Aziz+BenIsmail..&hearts;++;Self-taught+Full+Stack+Web+Developer,;Software-Engineer,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+It's+Aziz+Zouaghi..&hearts;++;Self-taught+Full+Stack+Web+Developer,;Software-Engineer,DevOps+Cloud+Enthousiast;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 
@@ -21,10 +21,10 @@
 <!-- Let's Connect..! -->
 # <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
-[![Mail Badge](https://img.shields.io/badge/-AzizBenIsmail-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/c/AzizBenIsmail) 
-[![Linkedin Badge](https://img.shields.io/badge/-AzizBenIsmail-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aziz-ben-ismail-a111ba19a/) 
+
+[![Linkedin Badge](https://img.shields.io/badge/-AzizBenIsmail-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zouaghi-mohammed-aziz-413a9028a?) 
 [![Mail Badge](https://img.shields.io/badge/-@AzizBenIsmail-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/azizbensmail/)
-[![Mail Badge](https://img.shields.io/badge/-AzizBenIsmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:aziz.270700@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-AzizBenIsmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:zouaghiaziz122@gmail.com)
 
 <!-- YouTube Channel Views /GitHub followers /visitors/Age 
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC7tdKHWp7O-hWY_vpd8qBUw?style=social)
@@ -51,18 +51,56 @@
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+Here’s how the updated skills section will look, with the requested replacements:
+
+---
+
+### Skills
+
+#### Database
+[![SQL Badge](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=4479A1)](#)  
+[![MySQL Badge](https://img.shields.io/badge/-MySQL-005C84?style=for-the-badge&labelColor=black&logo=mysql&logoColor=005C84)](#)  
+[![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=336791)](#)  
+[![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248)](#)  
+
+#### Frontend
+[![HTML Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#)  
+[![CSS Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#)  
+[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)](#)  
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  
+[![Angular Badge](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&labelColor=black&logo=angular&logoColor=DD0031)](#)  
+[![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=7952B3)](#)  
+
+#### Backend
+[![NodeJS Badge](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&labelColor=black&logo=node.js&logoColor=339933)](#)  
+[![Spring Boot Badge](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&labelColor=black&logo=spring&logoColor=6DB33F)](#)  
+[![Express.js Badge](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&labelColor=black&logo=express&logoColor=FFFFFF)](#)  
+
+#### Programming Languages
+[![C Badge](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&labelColor=black&logo=c&logoColor=A8B9CC)](#)  
+[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=FFD43B)](#)  
+[![Java Badge](https://img.shields.io/badge/-Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)](#)  
+[![JEE Badge](https://img.shields.io/badge/-JEE-F89820?style=for-the-badge&labelColor=black&logo=java&logoColor=F89820)](#)  
+
+#### Tools
+[![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)](#)  
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&labelColor=black&logo=github&logoColor=FFFFFF)](#)  
+[![GitLab Badge](https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&labelColor=black&logo=gitlab&logoColor=FFFFFF)](#)  
+[![VS Code Badge](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&labelColor=black&logo=visual-studio-code&logoColor=007ACC)](#)  
+[![Code::Blocks Badge](https://img.shields.io/badge/-Code::Blocks-008F9C?style=for-the-badge&labelColor=black&logo=codeblocks&logoColor=008F9C)](#)  
+
+#### Cloud and DevOps
+[![AWS Badge](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&labelColor=black&logo=amazon-aws&logoColor=FF9900)](#)  
+[![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=2496ED)](#)  
+[![Kubernetes Badge](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&labelColor=black&logo=kubernetes&logoColor=326CE5)](#)  
+[![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&labelColor=black&logo=linux&logoColor=FCC624)](#)  
+[![Networking Badge](https://img.shields.io/badge/-Networking-0078D7?style=for-the-badge&labelColor=black&logo=windows&logoColor=FFFFFF)](#)  
+
+---
+
+Let me know if this is good or if you'd like further changes!
 
 <!-- Github Stats   -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AzizBenIsmail&show_icons=true&locale=en&layout=compact&langs_count=50&theme=algolia)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=AzizBenIsmail&show_icons=true&theme=radical)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BenIsmail)](https://github.com/anuraghazra/github-readme-stats)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AzizBenIsmail&&theme=algolia" alt="AzizBenIsmail" /></p>
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=AzizBenIsmail&theme=react)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -84,9 +122,9 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AzizBenIsmail&repo=PFA-Automatisation_Campagne_Sms-Email-BackendExpress&theme=react)](https://github.com/AzizBenIsmail/PFA-Automatisation_Campagne_Sms-Email-BackendExpress)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-Credit: [Aziz Ben Ismail](https://github.com/AzizBenIsmail) 
+Credit: [Med Aziz Zouaghi](https://github.com/AzizSoftware/) 
 
-Last Edited on: 03/09/2024
+Last Edited on: 02/12/2024
 <details> 
   <summary>  <img src="./assets/giphy.gif" width="30px" alt="Git"/>GitHub Profile Stats </summary>
   <div>
