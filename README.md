@@ -10,7 +10,7 @@
   </p> -->
   
 <!--  Ceci mon Avatar-->
-<img title="My Avatar" align="left" src="assets/images/Aziz.png"  width="500px" alt="hi" >
+<img title="My Avatar" align="left" src="assets/Design.png"  width="500px" alt="hi" >
 
 <!--  About me -->
 <!--## <picture><img src = "assets/about_me.gif" width = 50px></picture> **About me**-->
@@ -110,49 +110,13 @@ Let me know if this is good or if you'd like further changes!
 
 | Choose your language         | Flags                                                                                                              |
 | -------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| [EN-US](./README.md)       | <img width="15%" alt="Node4Devs Logo" title="United States Flag (USA)" src="./assets/images/flags/USA.png" /> |
-| [FR-FRA](./README-FR-FRA.md) | <img width="15%" alt="Node4Devs Logo" title="France Flag (FR)" src="./assets/images/flags/France.png" />        |
-| [AR-SA](./README-AR-SA.md) | <img width="15%" alt="Node4Devs Logo" title="Saudi Flag (SA)" src="./assets/images/flags/saudi_ arabia.jpg" />        |
+| [EN-US](./README.md)       | <img width="15%" alt="Node4Devs Logo" title="United States Flag (USA)" src="./assets/flags/USA.png" /> |
+| [FR-FRA](./README-FR-FRA.md) | <img width="15%" alt="Node4Devs Logo" title="France Flag (FR)" src="./assets/flags/France.png" />        |
+| [AR-SA](./README-AR-SA.md) | <img width="15%" alt="Node4Devs Logo" title="Saudi Flag (SA)" src="./assets/flags/saudi_ arabia.jpg" />        |
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AzizBenIsmail&repo=PFA-Automatisation_Campagne_Sms-Email-FrontendReact&theme=react)](https://github.com/AzizBenIsmail/PFA-Automatisation_Campagne_Sms-Email-FrontendReact)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AzizBenIsmail&repo=PFA-Automatisation_Campagne_Sms-Email-BackendExpress&theme=react)](https://github.com/AzizBenIsmail/PFA-Automatisation_Campagne_Sms-Email-BackendExpress)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 Credit: [Med Aziz Zouaghi](https://github.com/AzizSoftware/) 
 
 Last Edited on: 02/12/2024
-<details> 
-  <summary>  <img src="./assets/giphy.gif" width="30px" alt="Git"/>GitHub Profile Stats </summary>
-  <div>
-  <samp>
-      <br/>
-            <p align="center">
-      </p>
-        <p align="center">
-          <a href="https://github.com/AzizBenIsmail/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AzizBenIsmail&theme=gruvbox&layout=compact&hide_border=true"
-          alt="1999AZZAR :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AzizBenIsmail&theme=gruvbox&layout=compact&hide_border=true"
-          alt="1999AZZAR :: Top Langs by commit" />
-          </a>
-        </p>
-    <br>
 
-## <img src="https://media.giphy.com/media/dxIWYNNVCxFXdP76XE/giphy.gif" width ="25"><b> Trophies</b>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AzizBenIsmail&theme=nord&column=7)](https://github.com/Naderab/github-profile-trophy)
-
-<br>
-</details>
-
-
-
-
-[reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
-[vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
-[htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
-[javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
