@@ -16,15 +16,15 @@
 <!--## <picture><img src = "assets/about_me.gif" width = 50px></picture> **About me**-->
 **About me**
 
-🚀 Hello, I'm Mohammed Aziz ZOUAGHI! 🌍 A 22-year-old Computer Science student at ENIT, Tunisia. Passionate about DevOps, Cloud Computing, IoT, and the exciting world of Automotive Networks. 💻🔧 I thrive on exploring innovative technologies, solving complex problems, and building scalable solutions. Always eager to learn, grow, and make an impact in the tech world! 🌟☁️
+🚀 Hello, I'm Mohammed Aziz ZOUAGHI! 🌍 A 23-year-old Computer Science student at ENIT, Tunisia. Passionate about DevOps, Cloud Computing, IoT, and the exciting world of Automotive Networks. 💻🔧 I thrive on exploring innovative technologies, solving complex problems, and building scalable solutions. Always eager to learn, grow, and make an impact in the tech world! 🌟☁️
 
 <!-- Let's Connect..! -->
 # <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-AzizBenIsmail-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zouaghi-mohammed-aziz-413a9028a?) 
-[![Mail Badge](https://img.shields.io/badge/-@AzizBenIsmail-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/azizbensmail/)
-[![Mail Badge](https://img.shields.io/badge/-AzizBenIsmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:zouaghiaziz122@gmail.com)
+[![Linkedin Badge]<!--(https://img.shields.io/badge/-AzizBenIsmail-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zouaghi-mohammed-aziz-413a9028a?) -->
+[![Mail Badge]<!--(https://img.shields.io/badge/-@AzizBenIsmail-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/azizbensmail/)-->
+[![Mail Badge]<!--(https://img.shields.io/badge/-AzizBenIsmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:zouaghiaziz122@gmail.com)-->
 
 <!-- YouTube Channel Views /GitHub followers /visitors/Age 
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC7tdKHWp7O-hWY_vpd8qBUw?style=social)
