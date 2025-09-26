@@ -22,9 +22,7 @@
 # <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
 
-[![Linkedin Badge]<!--(https://img.shields.io/badge/-AzizBenIsmail-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zouaghi-mohammed-aziz-413a9028a?) -->
-[![Mail Badge]<!--(https://img.shields.io/badge/-@AzizBenIsmail-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/azizbensmail/)-->
-[![Mail Badge]<!--(https://img.shields.io/badge/-AzizBenIsmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:zouaghiaziz122@gmail.com)-->
+<!--[![Linkedin Badge]<!--(https://img.shields.io/badge/-AzizBenIsmail-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zouaghi-mohammed-aziz-413a9028a?) -->-->
 
 <!-- YouTube Channel Views /GitHub followers /visitors/Age 
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC7tdKHWp7O-hWY_vpd8qBUw?style=social)
