@@ -2,7 +2,7 @@
   <img src="aziz.jpg" alt="Mohammed Aziz Zouaghi" width="400" style="border-radius: 100%;" />
 </div>
 
-# Hey there! 👋 I'm Mohammed Aziz ZOUAGHI
+# Hey there! I'm Mohammed Aziz ZOUAGHI
 
 <div align="center">
   
