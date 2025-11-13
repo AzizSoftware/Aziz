@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="unnamed.jpg" alt="Mohammed Aziz Zouaghi" width="400" style="border-radius: 100%;" />
+  <img src="aziz.jpg" alt="Mohammed Aziz Zouaghi" width="400" style="border-radius: 100%;" />
 </div>
 
 # Hey there! 👋 I'm Mohammed Aziz ZOUAGHI
