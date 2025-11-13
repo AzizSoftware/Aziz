@@ -144,19 +144,7 @@ fun_fact: Founder & President of ENIT GAMBIT Chess Club ♟️
 
 ---
 
-## 📈 GitHub Statistics
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AzizSoftware&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AzizSoftware&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AzizSoftware&theme=radical&hide_border=true)
-
-</div>
-
----
 
 ## 🏆 Certifications
 
