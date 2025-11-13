@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="aziz.png" alt="Mohammed Aziz Zouaghi" width="200" style="border-radius: 50%;" />
+</div>
+
 # Hey there! 👋 I'm Mohammed Aziz ZOUAGHI
 
 <div align="center">
