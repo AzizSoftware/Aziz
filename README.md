@@ -1,9 +1,8 @@
 <div align="center">
-  <img src="aziz.jpg" alt="Mohammed Aziz Zouaghi" width="400" style="border-radius: 100%;" />
+  
+# Hey there 👋   I'm Mohammed Aziz ZOUAGHI
 </div>
 
-# Hey there
-# I'm Mohammed Aziz ZOUAGHI
 
 <div align="center">
   
@@ -22,14 +21,14 @@ name: Mohammed Aziz Zouaghi
 located_in: Tunis, Tunisia
 current_focus: DevOps, Cloud Computing, Automotive Networks & IoT
 education: 
-  - Software Engineering @ ENIT
-  - Research Master's in Information Systems
+  - Software Engineering - ENIT
+  - Research Master's in Information Systems - ENIT
 interests: 
   - Healthcare Technologies
   - Automotive Embedded Systems
   - Cybersecurity & Cloud Architecture
   - Artificial Intelligence & Machine Learning
-fun_fact: Founder & President of ENIT GAMBIT Chess Club ♟️
+
 ```
 
 ---
@@ -64,6 +63,11 @@ fun_fact: Founder & President of ENIT GAMBIT Chess Club ♟️
 - 🔄 Automated CI/CD pipelines with SonarQube integration
 - 📊 Enhanced monitoring with Grafana and ELK stack
 
+### **Worker Intern** @ RFC 
+*Jul 2024 - Aug 2024 | tunis, Tunisia*
+- Documentation about Microsoft Security and LAPD protocol
+- Managed Windows Server and Active Directory
+- Initiation to Azure Cloud
 ---
 
 ## 🛠️ Tech Stack & Skills
@@ -156,15 +160,15 @@ fun_fact: Founder & President of ENIT GAMBIT Chess Club ♟️
 - 🎓 **AWS Knowledge: Cloud Essentials** - AWS (2023)
 - 🎓 **CCNA: Introduction to Networking** - CISCO (2022)
 - 🎓 **Efficient Large Language Model (LLM) Customization** - NVIDIA (2024)
-
+- 🎓 **Fundamental of Deep Laerning (FDL)** - NVIDIA (2025)
+- 🎓 **Building Transformer-Based Natural Language Processing Applications** - NVIDIA (2025)
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced Kubernetes & Service Mesh architectures
 - Healthcare IT systems & medical data security
-- Automotive embedded systems & CAN/LIN protocols
-- Advanced machine learning & generative AI
+- Automotive embedded systems & AE protocol
+- Advanced machine learning & Fedreated Learning
 
 ---
 
@@ -172,8 +176,6 @@ fun_fact: Founder & President of ENIT GAMBIT Chess Club ♟️
 
 - ♟️ Founded and lead the **ENIT GAMBIT Chess Club** - combining strategy with technology!
 - 🌍 Active member of **ENACTUS Tunisia** - driving social entrepreneurship
-- 📚 Passionate about continuous learning and exploring cutting-edge technologies
-- 🎯 Believe in building solutions that make a real-world impact
 
 ---
 
@@ -192,25 +194,6 @@ I'm always interested in working on innovative projects, especially in:
 
 <div align="center">
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-### 🌍 README Languages
-
-| Language | Flag |
-|----------|------|
-| [English](./README.md) | 🇺🇸 |
-| [French](./README-FR-FRA.md) | 🇫🇷 |
-| [Arabic](./README-AR-SA.md) | 🇸🇦 |
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=AzizSoftware&color=blueviolet&style=for-the-badge)
-
-**⭐ Star my repositories if you find them interesting!**
-
-*Last Updated: November 2025*
 
 </div>
